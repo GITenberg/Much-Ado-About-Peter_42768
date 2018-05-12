@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/99
     wikipedia: http://en.wikipedia.org/wiki/Jean_Webster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42768#Much-Ado-About-Peter
 gutenberg_issued: '2013-05-22'
 gutenberg_type: Text
 identifiers:
